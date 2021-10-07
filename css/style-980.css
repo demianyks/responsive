@@ -1,0 +1,17 @@
+h1 {
+	font-size: 3.2rem;
+}
+.www {
+	font-size: 1.3rem;
+}
+.text-robin {
+	font-size: 1.375rem;
+	height: 234px;
+}
+article div {
+	columns: 370px 2;
+	column-gap: 4.58%;
+}
+h3{
+	margin-bottom: 70px;
+}
